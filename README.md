@@ -1,5 +1,4 @@
 # UAS_LYDIA_DIFFANI_SIREGAR
-# Praktikum 4: CSS Layout
 
 <strong>Repository ini dibuat untuk memenuhi tugas Pemrograman Web</strong>
 | <strong>Nama</strong>      | <strong>Lydia Diffani Siregar</strong>  |
@@ -7,7 +6,7 @@
 | <strong>NIM</strong>     | <strong>312010498</strong>       |
 | <strong>Kelas</strong>   | <strong>TI.22.A1</strong>        |
 
-# Langkah-langkah Praktikum 4 "CSS Layout"
+# SOAL
 
 ![](foto/soal.png)
 [flowchart](foto/flowchart.pdf)
