@@ -9,7 +9,7 @@
 # SOAL
 
 ![](foto/soal.png)
-[flowchart](foto/flowchart.pdf)
+[flowchart](flowchart.pdf)
 
  **Penjelasan:**
 
