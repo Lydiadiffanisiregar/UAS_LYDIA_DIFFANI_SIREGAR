@@ -108,20 +108,20 @@ while True:
 <hr>
 
 #### Tambah data
-![tambah data](foto/Tambah.png) <br>
+![tambah data](foto/Tambah.PNG) <br>
 
 
 #### Ubah data
-![ubah data](foto/Ubah.png) <br>
+![ubah data](foto/Ubah.PNG) <br>
 
 
 #### Lihat data 
-![lihat data](foto/Lihat.png) <br>
+![lihat data](foto/Lihat.PNG) <br>
 
 
 #### Cari data
-![Carii data](foto/Cari.png) <br>
+![Carii data](foto/Cari.PNG) <br>
 
 
 #### Hapus data
-![hapus data](foto/Hapus.png) <br>
+![hapus data](foto/Hapus.PNG) <br>
